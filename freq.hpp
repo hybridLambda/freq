@@ -20,7 +20,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include "net.hpp"
+#include "../net.hpp"
 
 class Frequency{
     friend class HybridLambda;
